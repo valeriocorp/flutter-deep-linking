@@ -1,0 +1,14 @@
+body {
+    background-color: #f2f2f2;
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+}
+
+span {
+    font-size: 5rem;
+    font-weight: 300;
+}

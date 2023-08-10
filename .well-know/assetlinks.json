@@ -1,0 +1,10 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.loopout.miscelaneos",
+      "sha256_cert_fingerprints":
+      ["DC:66:77:76:F2:24:CA:A9:DA:4B:4F:EC:AE:4B:8F:C2:C2:F4:18:DB:F6:F9:F4:FA:3C:41:71:EA:3D:F8:B4:EE"]
+    }
+  }]
+  
